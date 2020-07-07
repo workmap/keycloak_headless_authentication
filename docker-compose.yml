@@ -1,0 +1,9 @@
+#Local dev
+version: '2'
+
+services:
+ keycloak:
+   image: keycloakheadless:latest
+   ports:
+    - "49160:8080"
+  

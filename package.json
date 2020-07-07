@@ -1,0 +1,17 @@
+{
+  "name": "gr-398_keycloakheadless",
+  "author": "Tyler McCracken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.16.1",
+    "querystring": "^0.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "license": "ISC"
+}
