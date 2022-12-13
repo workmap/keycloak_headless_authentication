@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "express": "^4.16.1",
+    "express": "^4.17.3",
     "querystring": "^0.2.0",
     "dotenv": "^8.2.0"
   },
